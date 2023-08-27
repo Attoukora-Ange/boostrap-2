@@ -1,0 +1,8 @@
+.item img{
+    height: 280px;
+}
+@media(min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
